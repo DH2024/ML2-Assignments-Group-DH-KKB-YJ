@@ -15,8 +15,8 @@
 
 ## Problem 5 : Visual story telling part 2: Capital Metro data
    **Approach :** 
-   Findings through EDA and graphs.
-   Confirming these findings through modelling to arrive at final conclusion.
+   1.) Findings through EDA and graphs.
+   2.) Confirming these findings through modelling to arrive at final conclusion.
 
 
 ## Problem 6 : Clustering and dimensionality reduction
