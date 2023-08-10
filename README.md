@@ -1,4 +1,4 @@
-# ML2-Assignments : STA 380, Part 2 : Exercises
+# STA 380, Part 2 : Exercises
 
 
 ## Problem 1 : Probability practice
