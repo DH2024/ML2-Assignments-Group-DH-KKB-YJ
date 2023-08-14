@@ -2,14 +2,11 @@
 
 __Group:__
 
-Deepti Hariyani ||
-EID : dh4224
+Deepti Hariyani || EID : dh4224
 
-Kapish Krishna Bodapati ||
-EID : 
+Kapish Krishna Bodapati || EID : 
 
-Yash Jain ||
-EID : 
+Yash Jain || EID : 
 
 ## Problem 1 : Probability practice
 The solution for this problem is in [Problem-1-Probability-Practice.Rmd](https://github.com/DH2024/ML2-Assignments/blob/main/R%20Scripts/Problem-1-Probability-Practice.Rmd/) file in [R-Scripts](https://github.com/DH2024/ML2-Assignments/tree/main/R%20Scripts) folder
