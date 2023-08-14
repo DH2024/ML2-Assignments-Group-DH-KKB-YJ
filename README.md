@@ -33,4 +33,4 @@ The solution for this problem is in [Problem 7_The-Reuters-Corpus.ipynb](https:/
 The solution for this problem is in [Problem 8-Association-Rule-Mining.Rmd](https://github.com/DH2024/ML2-Assignments/blob/main/R%20Scripts/Problem%208-Association-Rule-Mining.Rmd) file in [R-Scripts](https://github.com/DH2024/ML2-Assignments/tree/main/R%20Scripts) folder
 
 ## Problem 9 : Image classification with neural networks
-The solution for this problem is in Problem 9_Image_Classification_nn.ipynb file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks/) folder
+The solution for this problem is in [Problem 9_Image_Classification_nn.ipynb](https://github.com/DH2024/ML2-Assignments/blob/main/Notebooks/Problem%209_Image_Classification_nn.ipynb) file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks/) folder
