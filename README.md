@@ -33,7 +33,7 @@ The solution for this problem is in Problem-2-Wrangling-the-billboard-top-100.ip
 The solution for this problem is in Problem-7-The-Reuters-Corpus.ipynb file in Notebooks folder
 
 ## Problem 8 : Association rule mining
-The solution for this problem is in [Problem 8-Association-Rule-Mining.Rmd](https://github.com/DH2024/ML2-Assignments/blob/main/R%20Scripts/Problem%208-Association-Rule-Mining.Rmd/) file in [R-Scripts](https://github.com/DH2024/ML2-Assignments/tree/main/R%20Scripts) folder
+The solution for this problem is in [Problem 8-Association-Rule-Mining.Rmd](https://github.com/DH2024/ML2-Assignments/blob/main/R%20Scripts/Problem%208-Association-Rule-Mining.Rmd) file in [R-Scripts](https://github.com/DH2024/ML2-Assignments/tree/main/R%20Scripts) folder
 
 ## Problem 9 : Image classification with neural networks
 The solution for this problem is in Problem 9_Image_Classification_nn.ipynb file in Notebooks folder
