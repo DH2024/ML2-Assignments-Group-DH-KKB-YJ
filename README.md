@@ -2,13 +2,13 @@
 
 __Group:__
 
-Deepti Hariyani
+Deepti Hariyani ||
 EID : dh4224
 
-Kapish Krishna Bodapati
+Kapish Krishna Bodapati ||
 EID : 
 
-Yash Jain
+Yash Jain ||
 EID : 
 
 ## Problem 1 : Probability practice
