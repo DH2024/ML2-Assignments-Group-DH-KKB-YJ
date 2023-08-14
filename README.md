@@ -12,7 +12,7 @@ Yash Jain
 The solution for this problem is in [Problem-1-Probability-Practice.Rmd](https://github.com/DH2024/ML2-Assignments/blob/main/R%20Scripts/Problem-1-Probability-Practice.Rmd/) file in [R-Scripts](https://github.com/DH2024/ML2-Assignments/tree/main/R%20Scripts) folder
 
 ## Problem 2 : Wrangling the Billboard Top 100
-The solution for this problem is in Problem-2-Wrangling the Billboard Top 100.ipynb file in Notebooks folder
+The solution for this problem is in Problem-2-Wrangling the Billboard Top 100.ipynb file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks) folder
 
 ## Problem 3 : Visual story telling part 1: green buildings
 The solution for this problem is in Problem 3_greenbuilding.ipynb file in Notebooks folder
