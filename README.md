@@ -9,7 +9,7 @@ Kapish Krishna Bodapati
 Yash Jain
 
 ## Problem 1 : Probability practice
-The solution for this problem is in [Problem-1-Probability-Practice.Rmd]([url](https://github.com/DH2024/ML2-Assignments/blob/main/R%20Scripts/Problem-1-Probability-Practice.Rmd)) file in [R-Scripts]([url](https://github.com/DH2024/ML2-Assignments/tree/main/R%20Scripts)) folder
+The solution for this problem is in [Problem-1-Probability-Practice.Rmd]([(https://github.com/DH2024/ML2-Assignments/blob/main/R%20Scripts/Problem-1-Probability-Practice.Rmd)]) file in [R-Scripts]([(https://github.com/DH2024/ML2-Assignments/tree/main/R%20Scripts)]) folder
 
 ## Problem 2 : Wrangling the Billboard Top 100
 The solution for this problem is in Problem-2-Wrangling the Billboard Top 100.ipynb file in Notebooks folder
