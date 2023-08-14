@@ -27,7 +27,7 @@ The solution for this problem is in [Problem 5_Clustering and dimensionality red
 The solution for this problem is in [Problem 6_Market segmentation.ipynb](https://github.com/DH2024/ML2-Assignments/blob/main/Notebooks/Problem%206_Market%20segmentation.ipynb/) file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks/) folder
 
 ## Problem 7 : The Reuters corpus
-The solution for this problem is in Problem-7-The-Reuters-Corpus.ipynb file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks/) folder
+The solution for this problem is in [Problem 7_The-Reuters-Corpus.ipynb](https://github.com/DH2024/ML2-Assignments/blob/main/Notebooks/Problem%207_The-Reuters-Corpus-checkpoint.ipynb) file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks/) folder
 
 ## Problem 8 : Association rule mining
 The solution for this problem is in [Problem 8-Association-Rule-Mining.Rmd](https://github.com/DH2024/ML2-Assignments/blob/main/R%20Scripts/Problem%208-Association-Rule-Mining.Rmd) file in [R-Scripts](https://github.com/DH2024/ML2-Assignments/tree/main/R%20Scripts) folder
