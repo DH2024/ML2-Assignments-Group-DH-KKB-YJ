@@ -9,7 +9,7 @@ Kapish Krishna Bodapati
 Yash Jain
 
 ## Problem 1 : Probability practice
-The solution for this problem is in Problem-1-Probability-Practice.Rmd file
+The solution for this problem is in Problem-1-Probability-Practice.Rmd file in R-Scripts folder
 
 ## Problem 2 : Wrangling the Billboard Top 100
 The solution for this problem is in Problem-2-Wrangling the Billboard Top 100.ipynb file in Notebooks folder
