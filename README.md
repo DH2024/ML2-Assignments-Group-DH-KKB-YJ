@@ -21,7 +21,7 @@ The solution for this problem is in [Problem 3_greenbuilding.ipynb](https://gith
 The solution for this problem is in [Problem 4_Capital Metro.ipynb](https://github.com/DH2024/ML2-Assignments/blob/main/Notebooks/Problem%204_Capital%20Metro.ipynb/) file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks/) folder
 
 ## Problem 5 : Clustering and dimensionality reduction
-The solution for this problem is in Problem-2-Wrangling-the-billboard-top-100.ipynb file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks/) folder
+The solution for this problem is in [Problem-5_Clustering and dimensionality reduction.ipynb](https://github.com/DH2024/ML2-Assignments/blob/main/Notebooks/Problem%205_Clustering%20and%20dimensionality%20reduction.ipynb/) file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks/) folder
 
 ## Problem 6 : Market segmentation
 The solution for this problem is in Problem-2-Wrangling-the-billboard-top-100.ipynb file in [Notebooks](https://github.com/DH2024/ML2-Assignments/tree/main/Notebooks/) folder
