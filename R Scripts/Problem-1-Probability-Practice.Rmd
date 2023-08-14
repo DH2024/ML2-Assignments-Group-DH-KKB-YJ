@@ -64,6 +64,6 @@ However, since the specificity of test is 0.9999, out of 999,750,000 people who 
 
 In total, 248,250 + 999,975 are tested positive.
 
-So, probability of a person having disease if tested positive = 248,250/(248,250 + 999,975) = 0.2**
+So, probability of a person having disease if tested positive = 248,250/(248,250 + 999,975) = 0.2
 
 
