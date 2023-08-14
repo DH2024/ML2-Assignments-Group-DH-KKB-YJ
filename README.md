@@ -15,13 +15,13 @@ The solution for this problem is in Problem-1-Probability-Practice.Rmd file
 The solution for this problem is in Problem-2-Wrangling the Billboard Top 100.ipynb file in Notebooks folder
 
 ## Problem 3 : Visual story telling part 1: green buildings
-The solution for this problem is in Problem-2-Wrangling-the-billboard-top-100.ipynb file in Notebooks folder
+The solution for this problem is in Problem 3_greenbuilding.ipynb file in Notebooks folder
 
 ## Problem 4 : Visual story telling part 2: Capital Metro data
    **Approach :** 
    #### 1.) Findings through EDA and graphs.
    #### 2.) Confirming these findings through modelling to arrive at final story.
-The solution for this problem is in Problem-2-Wrangling-the-billboard-top-100.ipynb file in Notebooks folder
+The solution for this problem is in Problem 4_Capital Metro.ipynb file in Notebooks folder
 
 ## Problem 5 : Clustering and dimensionality reduction
 The solution for this problem is in Problem-2-Wrangling-the-billboard-top-100.ipynb file in Notebooks folder
